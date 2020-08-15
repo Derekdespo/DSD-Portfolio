@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DSD-Portfolio/static/css/main.f7c95e34.chunk.css",
+    "main.js": "/DSD-Portfolio/static/js/main.5db8151d.chunk.js",
+    "main.js.map": "/DSD-Portfolio/static/js/main.5db8151d.chunk.js.map",
+    "runtime-main.js": "/DSD-Portfolio/static/js/runtime-main.81b1c822.js",
+    "runtime-main.js.map": "/DSD-Portfolio/static/js/runtime-main.81b1c822.js.map",
+    "static/js/2.1f58ddb8.chunk.js": "/DSD-Portfolio/static/js/2.1f58ddb8.chunk.js",
+    "static/js/2.1f58ddb8.chunk.js.map": "/DSD-Portfolio/static/js/2.1f58ddb8.chunk.js.map",
+    "index.html": "/DSD-Portfolio/index.html",
+    "precache-manifest.9e9c9d9af9f93e0fd1bf7ad6b40b421c.js": "/DSD-Portfolio/precache-manifest.9e9c9d9af9f93e0fd1bf7ad6b40b421c.js",
+    "service-worker.js": "/DSD-Portfolio/service-worker.js",
+    "static/css/main.f7c95e34.chunk.css.map": "/DSD-Portfolio/static/css/main.f7c95e34.chunk.css.map",
+    "static/js/2.1f58ddb8.chunk.js.LICENSE.txt": "/DSD-Portfolio/static/js/2.1f58ddb8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DSD-Portfolio/static/media/seoulwall.95d9c5f1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81b1c822.js",
+    "static/js/2.1f58ddb8.chunk.js",
+    "static/css/main.f7c95e34.chunk.css",
+    "static/js/main.5db8151d.chunk.js"
+  ]
+}
